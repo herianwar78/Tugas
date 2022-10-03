@@ -1,0 +1,5 @@
+# Cara running python dengan tools yang ada : (wsl, vs code, terminal)
+# - Buka terminal, lalu pilih ubuntu yang telah aktif wsl
+# - Kemudian ketik “mkdir (isi nama folder)”
+# - Lalu ketik “cd (nama folder project)”
+# - Selanjutnya ketik “code .” untuk membuka vs code
